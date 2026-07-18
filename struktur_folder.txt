@@ -1,0 +1,61 @@
+TUGAS_PORTOFOLIO/
+|-- Backend/
+|   |-- __init__.py
+|   |-- admin/
+|   |   |-- __init__.py
+|   |   |-- dashboard.py
+|   |   |-- experience.py
+|   |   |-- login.py
+|   |   |-- profiles.py
+|   |   |-- projects.py
+|   |   |-- skills.py
+|   |   `-- upload.py
+|   `-- utama/
+|       |-- __init__.py
+|       `-- utama.py
+|-- Frontend/
+|   |-- admin/
+|   |   |-- css/
+|   |   |   |-- base.css
+|   |   |   |-- dashboard.css
+|   |   |   |-- experience.css
+|   |   |   |-- login.css
+|   |   |   |-- profiles.css
+|   |   |   |-- projects.css
+|   |   |   `-- skills.css
+|   |   |-- js/
+|   |   |   |-- api.js
+|   |   |   |-- base.js
+|   |   |   |-- dashboard.js
+|   |   |   |-- experience.js
+|   |   |   |-- login.js
+|   |   |   |-- profiles.js
+|   |   |   |-- projects.js
+|   |   |   `-- skills.js
+|   |   |-- account.html
+|   |   |-- base.html
+|   |   |-- dashboard.html
+|   |   |-- experience.html
+|   |   |-- login.html
+|   |   |-- messages.html
+|   |   |-- profiles.html
+|   |   |-- projects.html
+|   |   `-- skills.html
+|   `-- utama/
+|       |-- css/
+|       |   `-- style.css
+|       `-- js/
+|           `-- script.js
+|-- screenshots/
+|   `-- README.md
+|-- .env.example
+|-- .gitignore
+|-- app.py
+|-- config.py
+|-- model.py
+|-- index.html
+|-- requirements.txt
+|-- README.md
+|-- struktur_folder.txt
+|-- DB_682024101_VANESSA_RUTH_WALINGKAS.sql
+`-- favicon.ico

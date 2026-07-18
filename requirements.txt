@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+python-dotenv
+PyMySQL
+certifi
+cloudinary
+resend
+requests
